@@ -1,185 +1,184 @@
 {
-  "categorias": [
-    {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
-      "videos": [
-        {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+    "categorias": [{
+            "titulo": "BaianaSystem",
+            "cor": "#6BD1FF",
+            "link_extra": {
+                "text": "Ouça BaianaSystem também no Spotify",
+                "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5?si=1RwQWYEyR0KeFTRDZxQmeQ"
+            },
+            "videos": [{
+                    "titulo": "Encontro Gil Baiana",
+                    "url": "https://www.youtube.com/watch?v=tsYS9IWrAKI"
+                },
+                {
+                    "titulo": "Cabeça de papel - remix",
+                    "url": "https://www.youtube.com/watch?v=CRenrYinEwk"
+                },
+
+                {
+                    "titulo": "Capim-guiné",
+                    "url": "https://www.youtube.com/watch?v=P8hOiJOlSQo"
+                },
+                {
+                    "titulo": "Playsom",
+                    "url": "https://www.youtube.com/watch?v=ne7E5geBMWE&list=OLAK5uy_nT1IROifKPiNMDpFlhP5YNsn3rjU5KDDE&index=6"
+                },
+                {
+                    "titulo": "Saci - remix",
+                    "url": "https://www.youtube.com/watch?v=BD2Ff_ZKCdE"
+                },
+
+                {
+                    "titulo": "Sulamericano",
+                    "url": "https://www.youtube.com/watch?v=sSFFf6F-lFY&list=OLAK5uy_m-6O179b5-l6RBEmpjEtnAayiaPX_dG1k&index=4"
+                },
+                {
+                    "titulo": "Bala na agulha",
+                    "url": "https://www.youtube.com/watch?v=Vz6R3oJTrfg&list=OLAK5uy_nCgTRXflN6mhTPiTLymE6SS4wrc3ReGpg&index=6"
+                },
+                {
+                    "titulo": "Lucro",
+                    "url": "https://www.youtube.com/watch?v=y7NJN0MFnTw&list=OLAK5uy_nT1IROifKPiNMDpFlhP5YNsn3rjU5KDDE&index=3"
+                }
+            ]
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+            "titulo": "Fresno",
+            "cor": "#00C86F",
+            "link_extra": {
+                "text": "Ouça Fresno também no Spotify",
+                "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f?si=Prd5zi1TTAaVTByHnbTJNg"
+            },
+            "videos": [{
+                    "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+                    "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+                },
+                {
+                    "titulo": "Convicção",
+                    "url": "https://www.youtube.com/watch?v=G3KnE-c9CTA"
+                },
+                {
+                    "titulo": "Isso não é um teste",
+                    "url": "https://www.youtube.com/watch?v=jhkQPkX2cj8"
+                },
+                {
+                    "titulo": "Cada acidente",
+                    "url": "https://www.youtube.com/watch?v=4qjxsBlB-pU"
+                },
+                {
+                    "titulo": "Cada poça dessa rua...",
+                    "url": "https://www.youtube.com/watch?v=m4kbHGe5qJc"
+                }
+            ]
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+            "titulo": "Emicida",
+            "cor": "#9cd33b",
+            "link_extra": {
+                "text": "Ouça Emicida também no Spotify",
+                "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K?si=N9iy3PcdQImKjPoen25Q7Q"
+            },
+            "videos": [{
+                    "titulo": "Teste de Turing",
+                    "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+                },
+                {
+                    "titulo": "Amarelo",
+                    "url": "https://www.youtube.com/watch?v=PTDgP3BDPIU"
+                },
+                {
+                    "titulo": "Quem tem um amigo (tem tudo)",
+                    "url": "https://www.youtube.com/watch?v=hxsWMlVPdWg"
+                },
+                {
+                    "titulo": "Hoje cedo (feat. Pitty)",
+                    "url": "https://www.youtube.com/watch?v=PNl9Z587r8o"
+                }
+            ]
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+
+            "titulo": "Tuyo",
+            "cor": "orange",
+            "link_extra": {
+                "text": "Ouça Tuyo também no Spotify",
+                "url": " https: //open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj?si=3VvBdW96R1qyWU0Usku-LA"
+            },
+            "videos": [{
+                    "titulo": "Interestellar",
+                    "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+                },
+                {
+                    "titulo": "Sem mentir",
+                    "url": "https://www.youtube.com/watch?v=4-ZfX3PvnVM"
+                },
+                {
+                    "titulo": "Conselho do bom senso",
+                    "url": "https://www.youtube.com/watch?v=WSsBERFkwRg"
+                },
+                {
+                    "titulo": "Amadurece e apodrece",
+                    "url": "https://www.youtube.com/watch?v=0TqUaPPWQpM"
+                }
+            ]
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+            "titulo": "Gloria Groove",
+            "cor": "red",
+            "link_extra": {
+                "text": "Ouça Gloria Groove também no Spotify",
+                "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw?si=kVGXfdzKS56IIDEQ8cJzYw"
+            },
+            "videos": [{
+                    "titulo": "Final Fantasy 7",
+                    "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+                },
+                {
+                    "titulo": "Mil grau",
+                    "url": "https://www.youtube.com/watch?v=E4g6t0u45ZA"
+                },
+                {
+                    "titulo": "A caminhada",
+                    "url": "https://www.youtube.com/watch?v=cZ7f491O5yo"
+                },
+                {
+                    "titulo": "Magenta ca$h",
+                    "url": "https://www.youtube.com/watch?v=KngA1x8lAIE"
+                },
+                {
+                    "titulo": "Sedanapo",
+                    "url": "https://www.youtube.com/watch?v=9P4lZ5Q1U_8"
+                }
+            ]
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+            "titulo": "Gilberto Gil",
+            "cor": "#6b5be2",
+            "link_extra": {
+                "text": "Ouça Gilberto Gil também no Spotify",
+                "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr?si=9vY05GBlT4yNNmhzCbadEw"
+            },
+            "videos": [{
+                    "titulo": "Como estudar melhor?",
+                    "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+                },
+                {
+                    "titulo": "Andar com fé",
+                    "url": "https://www.youtube.com/watch?v=DK06zbkZ18w&list=PLsYFv2PLHYDwXZDXoFLpiwnxHnpOW0sTy"
+                },
+                {
+                    "titulo": "Aquele abraço",
+                    "url": "https://www.youtube.com/watch?v=zFGMLQ3q15c"
+                },
+                {
+                    "titulo": "Toda menina baiana",
+                    "url": "https://www.youtube.com/watch?v=m03e3iYK7m0"
+                },
+                {
+                    "titulo": "Esperando na janela",
+                    "url": "https://www.youtube.com/watch?v=PqQ3GJjR9do"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
-      ]
-    },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
-      ]
-    }
-  ]
+    ]
 }
