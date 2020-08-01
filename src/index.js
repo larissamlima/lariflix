@@ -1,16 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Home from './pages/Home';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import  CadastroVideo from './pages/cadastro/Video'
 
-function CadastroVideo() {
-    return ( <
-        div >
-        Página de cadastro de Video <
-        /div>
-    )
-}
+
+const Pagina404 = () => ( < div > Página 404 < /div>)
 
 ReactDOM.render(
 
@@ -23,12 +19,12 @@ ReactDOM.render(
         component = { CadastroVideo }
         /> <
         Route path = "/"
-        component = { App }
+        component = { Home }
         exact /
         >
         <
         Route component = {
-            () => ( < div > Página 404 < /div>)
+            Pagina404
             }
             />
 
